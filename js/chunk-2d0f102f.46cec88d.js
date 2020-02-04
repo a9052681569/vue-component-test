@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f102f"],{"9f8d":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("form",[t("BaseInput"),t("BaseInput")],1)},u=[],c={name:"TabArchive"},r=c,s=t("2877"),f=Object(s["a"])(r,a,u,!1,null,"5b4718b8",null);n["default"]=f.exports}}]);
+//# sourceMappingURL=chunk-2d0f102f.46cec88d.js.map
